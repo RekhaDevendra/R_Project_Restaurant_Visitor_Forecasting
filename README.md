@@ -1,7 +1,7 @@
 # Restaurant Visitor Forecasting
 
 ## Project Overview
-This project aims to predict restaurant visitor counts using historical data. The dataset, sourced from [Kaggle's Recruit Restaurant Visitor Forecasting dataset](https://www.kaggle.com/), contains information on restaurant visits, allowing us to build time series forecasting models to help restaurant managers optimize operations.
+This project aims to predict restaurant visitor counts using historical data. The dataset, sourced from [Kaggle's Recruit Restaurant Visitor Forecasting dataset](https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting/data), contains information on restaurant visits, allowing us to build time series forecasting models to help restaurant managers optimize operations.
 
 ## Dataset Information
 The dataset includes:
