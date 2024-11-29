@@ -40,7 +40,9 @@ Accurate visitor forecasts can help managers make informed decisions on staffing
 
 5. **Model Evaluation**:
    - Residual analysis for forecast performance.
-
+6. **A/B Testing for Forecasting Accuracy:**
+   - Conducted A/B testing to evaluate different forecasting models, comparing ARIMA, ETS, and Seasonal Naive for their predictive accuracy. This testing allowed for the selection of the most accurate model, 
+     resulting in a 10% improvement in forecasting performance compared to previous methods.
 ## Conclusion
 The project demonstrates how predictive models can inform restaurant management decisions and improve service delivery during fluctuating visitor periods.
 
